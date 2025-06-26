@@ -1,0 +1,12 @@
+[
+  {
+    "title": "GenZ Gym Website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a modern gym website made by React JS.",
+    "skills": ["React", "HTML", "CSS" ,"Bootstrap"],
+    "demo": "https://genzgymm.pages.dev/",
+    "source": "https://github.com/Pavan-Pawar-2421/GenZ-Gym-Site"
+  }
+ 
+]
+
